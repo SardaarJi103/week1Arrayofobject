@@ -2,7 +2,7 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */
+ this is some pull practice  sadas d ad asdas*/
 package arrayofobject;
 
 import java.util.Scanner;
