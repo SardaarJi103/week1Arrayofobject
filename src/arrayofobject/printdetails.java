@@ -28,7 +28,7 @@ public class printdetails
       list[1]=s2;
       list[2]=s3;
                 System.out.println("this js fetch and mergwe das das d asd as");
-
+//these are comments
       for(int i=0;i<3;i++)
       {
           System.out.println("name is " + list[i].getName() + " id is " + list[i].getId());
